@@ -52,7 +52,7 @@ you can see that the chatbot stays true to the concept.
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello.PNG" alt="Hello" width="800">
+    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello.PNG" alt="Hello" width="600">
 </div>
 
 <br>
@@ -60,7 +60,7 @@ When comparing with the results entered directly below, it can be seen that even
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello_chatgpt.PNG" alt="Hello_gpt" width="600">
+    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello_chatgpt.PNG" alt="Hello_gpt" width="400">
 </div>
 
 <br>
