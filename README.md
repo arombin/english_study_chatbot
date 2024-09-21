@@ -40,7 +40,7 @@ The concept is that the chatbot becomes my tour guide.
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_tour_guide.PNG" alt="tour_guide" width="800">
+    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_tour_guide.PNG" alt="tour_guide" width="900">
 </div>
 
 <br>
@@ -51,13 +51,17 @@ The concept is that the chatbot only greets.
 you can see that the chatbot stays true to the concept.
 <br>
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello.PNG)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello.PNG" alt="Hello" width="800">
+</div>
 
 <br>
 When comparing with the results entered directly below, it can be seen that even grammatically correct sentences are revised into more natural expressions.
 <br>
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello_chatgpt.PNG)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello_chatgpt.PNG" alt="Hello_gpt" width="600">
+</div>
 
 <br>
 
@@ -66,7 +70,9 @@ When comparing with the results entered directly below, it can be seen that even
 The concept is that the chatbot becomes my university friend.
 <br>
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_University_friend.PNG)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_University_friend.PNG" alt="concept_University_friend" width="900">
+</div>
 
 <br>
 
