@@ -30,6 +30,8 @@ However, these features are 💸subscription-based💸, with real-time correctio
 4. The chatbot responds to the user's input.
 5. The conversation continues until the user types "end."
 
+<br>
+
 ## chatbot 사용예시
 
 ### 1. Tour guide concept✈️
@@ -45,15 +47,12 @@ The concept is that the chatbot becomes my tour guide.
 
 The concept is that the chatbot only greets.
 you can see that the chatbot stays true to the concept.
-
 <br>
 
 ![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello.PNG)
 
 <br>
-
 When comparing with the results entered directly below, it can be seen that even grammatically correct sentences are revised into more natural expressions.
-
 <br>
 
 ![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello_chatgpt.PNG)
