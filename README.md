@@ -21,6 +21,7 @@ However, these features are 💸subscription-based💸, with real-time correctio
 ![Speak App](https://github.com/arombin/english_study_chatbot/blob/master/image/Speak_AI.png)
 
 <br>
+<br>
 
 ## chatbot 사용법
 
@@ -52,11 +53,12 @@ you can see that the chatbot stays true to the concept.
 <br>
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello.PNG" alt="Hello" width="500">
+    <img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_Hello.PNG" alt="Hello" width="450">
 </div>
 
 <br>
 When comparing with the results entered directly below, it can be seen that even grammatically correct sentences are revised into more natural expressions.
+<br>
 <br>
 
 <div align="left">
