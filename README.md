@@ -9,6 +9,7 @@ Speak은 다양한 영어 강의와 AI 서비스를 제공합니다. Speak의 AI
 하지만, 이러한 기능은 💸유료💸이며 실시간으로 틀린 부분을 고쳐주는 기능은 ⭐프리미엄 프로⭐ 사용자에게만 제공됩니다. 따라서, 본 프로젝트에서는 Gemini Chatbot API를 활용하여 Speak 기능과 유사하게 만들어 보았습니다!
 
 <br>
+<br>
 
 This chatbot is inspired by the Speak English conversation app, which offers a AI services.😄
 
@@ -17,7 +18,9 @@ The AI chatbot in Speak allows users to set the concept of the conversation and 
 However, these features are 💸subscription-based💸, with real-time corrections available only to ⭐premium⭐ users. Therefore, in this project, we have utilized the Gemini Chatbot API to create functionality similar to that of Speak!
 
 <br>
+
 ![Speak App](https://github.com/arombin/english_study_chatbot/blob/master/image/Speak_AI.png)
+
 <br>
 
 ## chatbot 사용법
