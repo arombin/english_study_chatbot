@@ -34,6 +34,7 @@ However, these features are 💸subscription-based💸, with real-time correctio
 
 ### 1. Tour guide concept✈️
 
+The concept is that the chatbot becomes my tour guide.
 <br>
 
 ![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_tour_guide.PNG)
@@ -42,8 +43,7 @@ However, these features are 💸subscription-based💸, with real-time correctio
 
 ### 2. Hello concept👋
 
-<br>
-
+The concept is that the chatbot only greets.
 you can see that the chatbot stays true to the concept.
 
 <br>
@@ -62,6 +62,7 @@ When comparing with the results entered directly below, it can be seen that even
 
 ### 3. University friend concept😊
 
+The concept is that the chatbot becomes my university friend.
 <br>
 
 ![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_University_friend.PNG)
