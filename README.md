@@ -39,7 +39,7 @@ However, these features are 💸subscription-based💸, with real-time correctio
 The concept is that the chatbot becomes my tour guide.
 <br>
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_tour_guide.PNG)
+<img src="https://raw.githubusercontent.com/arombin/english_study_chatbot/master/image/concept_tour_guide.PNG" alt="tour_guide" width="500">
 
 <br>
 
@@ -67,3 +67,4 @@ The concept is that the chatbot becomes my university friend.
 ![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_University_friend.PNG)
 
 <br>
+
