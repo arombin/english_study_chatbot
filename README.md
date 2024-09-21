@@ -34,20 +34,20 @@ However, these features are 💸subscription-based💸, with real-time correctio
 
 1. Tour guide concept
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_tour_guide.png)
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_tour_guide.PNG)
 
 <br>
 2. Hello concept
 you can see that the chatbot stays true to the concept.
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello.png)
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello.PNG)
 
 <br>
 When comparing with the results entered directly below, it can be seen that even grammatically correct sentences are revised into more natural expressions.
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello_chatgpt.png)
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello_chatgpt.PNG)
 
 <br>
 3. University friend concept
 
-![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_University_friend.png)
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_University_friend.PNG)
