@@ -24,15 +24,15 @@ However, these features are 💸subscription-based💸, with real-time correctio
 
 ## chatbot 사용법
 
-1. 사용자가 chatbot의 concept를 지정합니다.
-2. 사용자가 chatbot에게 말을 겁니다.
-3. AI가 나의 말에서 잘못된 부분 또는 부자연스러운 부분을 고쳐줍니다.
-4. chatbot이 나의 말에 대하여 답변을 합니다.
-5. 사용자가 "end."을 입력할 때까지 대화를 지속합니다.
+1. The user specifies the concept of the chatbot.
+2. The user engages in conversation with the chatbot.
+3. The AI corrects any mistakes or awkward phrasing in the user's input.
+4. The chatbot responds to the user's input.
+5. The conversation continues until the user types "end."
 
 ## chatbot 사용예시
 
-1. Tour guide concept
+### 1. Tour guide concept
 
 <br>
 
@@ -40,7 +40,7 @@ However, these features are 💸subscription-based💸, with real-time correctio
 
 <br>
 
-2. Hello concept
+### 2. Hello concept
 
 <br>
 
@@ -60,7 +60,7 @@ When comparing with the results entered directly below, it can be seen that even
 
 <br>
 
-3. University friend concept
+### 3. University friend concept
 
 <br>
 
