@@ -32,7 +32,7 @@ However, these features are 💸subscription-based💸, with real-time correctio
 
 ## chatbot 사용예시
 
-### 1. Tour guide concept
+### 1. Tour guide concept✈️
 
 <br>
 
@@ -40,7 +40,7 @@ However, these features are 💸subscription-based💸, with real-time correctio
 
 <br>
 
-### 2. Hello concept
+### 2. Hello concept👋
 
 <br>
 
@@ -60,7 +60,7 @@ When comparing with the results entered directly below, it can be seen that even
 
 <br>
 
-### 3. University friend concept
+### 3. University friend concept😊
 
 <br>
 
