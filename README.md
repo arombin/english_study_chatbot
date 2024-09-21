@@ -9,7 +9,6 @@ Speak은 다양한 영어 강의와 AI 서비스를 제공합니다. Speak의 AI
 하지만, 이러한 기능은 💸유료💸이며 실시간으로 틀린 부분을 고쳐주는 기능은 ⭐프리미엄 프로⭐ 사용자에게만 제공됩니다. 따라서, 본 프로젝트에서는 Gemini Chatbot API를 활용하여 Speak 기능과 유사하게 만들어 보았습니다!
 
 <br>
-<br>
 
 This chatbot is inspired by the Speak English conversation app, which offers a AI services.😄
 
@@ -31,4 +30,24 @@ However, these features are 💸subscription-based💸, with real-time correctio
 4. chatbot이 나의 말에 대하여 답변을 합니다.
 5. 사용자가 "end."을 입력할 때까지 대화를 지속합니다.
 
-   
+## chatbot 사용예시
+
+1. Tour guide concept
+
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_tour_guide.png)
+
+<br>
+2. Hello concept
+you can see that the chatbot stays true to the concept.
+
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello.png)
+
+<br>
+When comparing with the results entered directly below, it can be seen that even grammatically correct sentences are revised into more natural expressions.
+
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_Hello_chatgpt.png)
+
+<br>
+3. University friend concept
+
+![tour_guide](https://github.com/arombin/english_study_chatbot/blob/master/image/concept_University_friend.png)
