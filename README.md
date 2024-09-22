@@ -1,4 +1,4 @@
-# Gemini Chatbot
+# English Studying Chatbot (using Gemini Chatbot)
 
 ## project intro
 
